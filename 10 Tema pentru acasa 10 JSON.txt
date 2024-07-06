@@ -1,0 +1,64 @@
+{
+  "Lista": {
+    "Persoana1": {
+      "ID": "001",
+      "Nume": "Ion",
+      "Oras": "Oradea",
+      "Adresa": {
+        "Strada": "Ghioceilor",
+        "Casa": "27",
+        "Nrapartament": "1"
+      },
+      "Datedecontact": {
+        "Numardetelefon": "0741234567",
+        "Adresadeemail": "iontest@gmail.com",
+        "Skype": "Ion123"
+      }
+    },
+    "Persoana2": {
+      "ID": "002",
+      "Nume": "Maria",
+      "Oras": "Arad",
+      "Adresa": {
+        "Strada": "Rozelor",
+        "Casa": "58",
+        "Nrapartament": "3"
+      },
+      "Datedecontact": {
+        "Numardetelefon": "0742345678",
+        "Adresadeemail": "mariatest@gmail.com",
+        "Skype": "Maria123"
+      }
+    },
+    "Persoana3": {
+      "ID": "003",
+      "Nume": "Petre",
+      "Oras": "Timisoara",
+      "Adresa": {
+        "Strada": "Lalelelor",
+        "Casa": "135",
+        "Nrapartament": "2"
+      },
+      "Datedecontact": {
+        "Numardetelefon": "0743456789",
+        "Adresadeemail": "petretest@gmail.com",
+        "Skype": "Petre123"
+      }
+    },
+    "Persoana4": {
+      "ID": "004",
+      "Nume": "Elena",
+      "Oras": "Pitesti",
+      "Adresa": {
+        "Strada": "Orhideelor",
+        "Casa": "78",
+        "Nrapartament": "4"
+      },
+      "Datedecontact": {
+        "Numardetelefon": "07445678909",
+        "Adresadeemail": "elenatest@gmail.com",
+        "Skype": "Elena123"
+      }
+    }
+  }
+}
